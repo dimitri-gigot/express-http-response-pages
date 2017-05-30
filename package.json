@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dimitri-gigot/express-http-response-pages.git"
+    "url": "git+https://dimitri-gigot@github.com/dimitri-gigot/express-http-response-pages.git"
   },
   "keywords": [
+    "express",
     "http",
     "error",
     "response",
-    "express",
     "middleware"
   ],
-  "author": "Dimitri Gigot",
-  "license": "SEE LICENSE IN LICENSE",
+  "author": "Dimitri Gigot dimgigot@gmail.com",
+  "license": "SEE LICENCE IN LICENSE",
   "bugs": {
     "url": "https://github.com/dimitri-gigot/express-http-response-pages/issues"
   },
