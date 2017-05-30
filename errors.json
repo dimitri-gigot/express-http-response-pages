@@ -1,0 +1,4 @@
+[
+  { "id" : "notFound", "code" : 404, "name" : "Not Found" },
+  { "id" : "internalError", "code" : 500, "name" : "Internal Error" }
+]
